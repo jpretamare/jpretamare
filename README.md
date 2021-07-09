@@ -11,7 +11,7 @@ estoy en camino a full stack developer, con mayor orientacion a back-end.<br>
 🔭 Actualmente estoy desarrollando un e-commerce.<br>
 :space_invader: He trabajado con: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**<br>
 :rocket: Siempre dispuesto a aprender nuevas tecnologías<br>
-📚 Projectos profesionales en mi [Github](https://github.com/jpretamare) repositorio<br>
+📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare)<br>
 📫 Para contactarme **jpretamare@gmail.com**<br>
 
 ### Skills
