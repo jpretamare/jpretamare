@@ -5,10 +5,10 @@
 De **técnico en IT** <i>autodidacta</i>:satellite:, a estar en camino a **Full Stack Developer**,<br>
 con mayor orientacion a back-end.<br>
 Desde siempre apasionado por la tecnología, <br> 
-ahora navegando el entretejido del desarrollo web.<br>
+ahora navegando el entretejido mundo del desarrollo web.<br>
 
 
-### Full Stack Developer
+### Como Full Stack Developer
 
 🔭 Actualmente estoy desarrollando un e-commerce.<br>
 :space_invader: He trabajado con: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**<br>
