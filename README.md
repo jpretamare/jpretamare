@@ -19,6 +19,8 @@ ahora navegando el entretejido del desarrollo web.<br>
 ### Skills
 
 <p align="left">
+  <img src='https://api.iconify.design/flat-color-icons:linux.svg' alt="linux" height="40" width="40"/>
+  <img src='https://api.iconify.design/flat-color-icons:debian.svg' alt="debian" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
