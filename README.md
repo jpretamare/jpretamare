@@ -13,7 +13,7 @@ ahora navegando el entretejido mundo del desarrollo web.<br>
 🔭 Actualmente estoy desarrollando un e-commerce.<br>
 :space_invader: He trabajado con: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**<br>
 :rocket: Siempre dispuesto a aprender nuevas tecnologías<br>
-📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare)<br>
+📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare?tab=repositories)<br>
 📫 Para contactarme **jpretamare@gmail.com**<br>
 
 ### Skills
