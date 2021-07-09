@@ -2,9 +2,11 @@
 
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" height="300">
 
-Pase de ser técnico en IT <i>autodidacta</i>:satellite:,<br>
-apasionado por la tecnología,a estar navegando el entretejido del desarrollo web,<br>
-estoy en camino a full stack developer, con mayor orientacion a back-end.<br> 
+De **técnico en IT** <i>autodidacta</i>:satellite:, a estar en camino a **Full Stack Developer**,<br>
+con mayor orientacion a back-end.<br>
+Desde siempre apasionado por la tecnología, <br> 
+ahora navegando el entretejido del desarrollo web.<br>
+
 
 ### Full Stack Developer
 
