@@ -14,7 +14,8 @@ ahora navegando el entretejido mundo del desarrollo web.<br>
 :space_invader: He trabajado con: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**<br>
 :rocket: Siempre dispuesto a aprender nuevas tecnologías<br>
 📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare?tab=repositories)<br>
-📫 Para contactarme **jpretamare@gmail.com**<br>
+
+📫 Para contactarme **jpretamare@gmail.com** o *[Linkedin](https://www.linkedin.com/in/jpretamar)<br>
 
 ### Skills
 
