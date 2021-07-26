@@ -15,7 +15,7 @@ ahora navegando el entretejido mundo del desarrollo web.<br>
 :rocket: Siempre dispuesto a aprender nuevas tecnologías<br>
 📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare?tab=repositories)<br>
 
-📫 Para contactarme **jpretamare@gmail.com** o *[Linkedin](https://www.linkedin.com/in/jpretamar)<br>
+📫 Para contactarme **jpretamare@gmail.com** o **[Linkedin](https://www.linkedin.com/in/jpretamar)**<br>
 
 ### Skills
 
