@@ -10,7 +10,7 @@ ahora navegando el entretejido mundo del desarrollo web.<br>
 
 ### Como Full Stack Developer
 
-🔭 Actualmente estoy desarrollando un e-commerce.<br>
+🔭 <br>
 :space_invader: He trabajado con: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**<br>
 :rocket: Siempre dispuesto a aprender nuevas tecnologías<br>
 📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare?tab=repositories)<br>
