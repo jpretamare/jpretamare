@@ -8,10 +8,10 @@ Desde siempre apasionado por la tecnología, <br>
 ahora navegando el entretejido mundo del desarrollo web.<br>
 
 
-### Como Full Stack Developer🔭
+### Como Software Developer🔭
 
  <br>
-:space_invader: He trabajado con: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**<br>
+:space_invader: He trabajado con: **Java, Spring, Spring boot, Javascript, Node, React, Redux, PostgreSQL, MySql, SQLServer, Sequelize, Express, Docker**<br>
 :rocket: Siempre dispuesto a aprender nuevas tecnologías<br>
 📚 Projectos profesionales en mi repositorio [Github](https://github.com/jpretamare?tab=repositories)<br>
 
